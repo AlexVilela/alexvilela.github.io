@@ -7,70 +7,70 @@ title_separator          : "-"
 name                     : "Alex Vilela"
 description              : "An amazing website."
 url                      : "https://alexvilela.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+#baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : alexvilela/alexvilela.github.io
+#teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+#logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+#masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
-reCaptcha:
-  siteKey                :
-  secret                 :
+#comments:
+#  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+#reCaptcha:
+#  siteKey                :
+#  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
-google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+#search_provider          : # lunr (default), algolia, google
+#algolia:
+#  application_id         : # YOUR_APPLICATION_ID
+#  index_name             : # YOUR_INDEX_NAME
+#  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+#  powered_by             : # true (default), false
+#google:
+#  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+#  instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
+#google_site_verification :
+#bing_site_verification   :
+#yandex_site_verification :
+#naver_site_verification  :
 
 # Social Sharing
 twitter:
   username               : alexfoobar
-og_image                 : # Open Graph/Twitter default site image
+#og_image                 : # Open Graph/Twitter default site image
 
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+#  google:
+#    tracking_id          :
+#    anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Alex Vilela"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  # avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "London"
-  email            :
+  #email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  # url: mailto:your.name@email.com
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/alexfoobar"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  # url: "https://github.com/"
 
 # Site Footer
 footer:
@@ -78,15 +78,15 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/alexfoobar"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  # url:
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
+    #  # url:
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
+    #  # url:
 
 # Reading Files
 include:
