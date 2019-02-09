@@ -3,10 +3,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Mainly Technical"
+title                    : #"Alex Vilela"
 title_separator          : "-"
 name                     : "Alex Vilela"
-description              : "An amazing website."
+description              : "Words on software development and architecture."
 url                      : "http://localhost"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : alexvilela/alexvilela.github.io
@@ -20,8 +20,8 @@ twitter:
 # Site Author
 author:
   name             : "Alex Vilela"
-  # avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/assets/images/bio-photo.jpeg"
+  bio              : ".Net architect, passionate about distributed computing and cycling."
   location         : "London"
   links:
     - label: "Twitter"
@@ -72,5 +72,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      comments: # true
       share: true
       related: true
