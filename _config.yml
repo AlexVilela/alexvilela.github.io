@@ -3,11 +3,11 @@ remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : #"Alex Vilela"
+title                    : "Mostly Tech"
 title_separator          : "-"
 name                     : "Alex Vilela"
 description              : "Words on software development and architecture."
-url                      : "http://localhost"
+url                      : "https://alexvilela.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : alexvilela/alexvilela.github.io
 words_per_minute         : 200
