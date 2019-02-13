@@ -12,6 +12,15 @@ url                      : "https://alexvilela.github.io"
 repository               : alexvilela/alexvilela.github.io
 words_per_minute         : 200
 
+# Comments
+comments:
+  provider  : "staticman_v2"
+
+staticman:
+  branch: "master"
+  endpoint: "https://dev.staticman.net/v3/entry/github/"
+
+
 # Social Sharing
 twitter:
   username               : alexfoobar
@@ -37,12 +46,7 @@ footer:
 
 encoding: "utf-8"
 
-# Comments
-comments:
-  provider  : "staticman_v2"
-  staticman:
-    branch    : "master"
-    endpoint  : "https://dev.staticman.net/v3/entry/github/"
+
 
 # Plugins (previously gems:)
 plugins:
