@@ -37,6 +37,13 @@ footer:
 
 encoding: "utf-8"
 
+# Comments
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "master"
+    endpoint  : "https://dev.staticman.net/v3/entry/github/"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -72,6 +79,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
