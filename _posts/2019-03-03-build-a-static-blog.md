@@ -27,7 +27,7 @@ Markdown is a good solution for doing exactly that.
 
 ### Chosen Solution
 In short, these are the solutions that I chose:
-1. Static blog engine: [Jekyll](https://jekyllrb.com/). It supports Markdown and is simple enough to learn and use.
+1. Static blog engine: [Jekyll](https://jekyllrb.com/). It supports Markdown and is simple enough to learn and use ([you can host it locally]({% post_url 2019-03-12-host-jekyll-locally %}))
 1. Static comments: [Staticman](https://staticman.net/)
 1. Hosting: [GitHub Pages](https://pages.github.com/) works well for me while also providing version control.
 1. Blog theme: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) is a great theme. Design and styling aren't my best strengths and this theme makes everything looks great with minimal effort.
