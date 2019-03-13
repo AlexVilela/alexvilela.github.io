@@ -6,6 +6,9 @@ tags:
   - static
   - simple
   - automation
+  - jekyll
+  - docker
+  - minimal-mistakes
 ---
 When [I decided to start a blog]({% post_url 2019-02-09-why-I-started-a-blog %}) there were a few things that I quickly found out from other people that I admire.
 ### 1. Always own your data
