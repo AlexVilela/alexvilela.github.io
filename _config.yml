@@ -6,7 +6,7 @@ locale                   : "en-GB"
 title                    : "Mostly Tech"
 title_separator          : "-"
 name                     : "Alex Vilela"
-description              : "Words on software development and architecture."
+description              : "Words on software development, architecture and investments."
 url                      : "https://alexvilela.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : alexvilela/alexvilela.github.io
